@@ -1,0 +1,7 @@
+C:\Users\T-Gamer\source\repos\CreateThreadCSharp\CreateThreadCSharp\bin\Debug\CreateThreadCSharp.exe.config
+C:\Users\T-Gamer\source\repos\CreateThreadCSharp\CreateThreadCSharp\bin\Debug\CreateThreadCSharp.exe
+C:\Users\T-Gamer\source\repos\CreateThreadCSharp\CreateThreadCSharp\bin\Debug\CreateThreadCSharp.pdb
+C:\Users\T-Gamer\source\repos\CreateThreadCSharp\CreateThreadCSharp\obj\Debug\CreateThreadCSharp.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\source\repos\CreateThreadCSharp\CreateThreadCSharp\obj\Debug\CreateThreadCSharp.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\CreateThreadCSharp\CreateThreadCSharp\obj\Debug\CreateThreadCSharp.exe
+C:\Users\T-Gamer\source\repos\CreateThreadCSharp\CreateThreadCSharp\obj\Debug\CreateThreadCSharp.pdb

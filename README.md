@@ -1,9 +1,6 @@
 # MalDevCreateThreadCSharp
  Part of maldev series, first dropper, c# variant 
 
-# MalDevCreateThreadCSharp
-Part of the Maldev series, first dropper, create thread CPP
-
 # Clone and Open Git Repository with Visual Studio Solution
 
 ## Step 1: Clone the Git Repository
